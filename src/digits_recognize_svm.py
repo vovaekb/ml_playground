@@ -1,8 +1,3 @@
-#
-# Tutorial: http://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_svm/py_svm_opencv/py_svm_opencv.html#svm-opencv
-#
-
-
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt

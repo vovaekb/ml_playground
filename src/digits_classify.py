@@ -1,7 +1,3 @@
-'''
-Source: https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a
-'''
-
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
